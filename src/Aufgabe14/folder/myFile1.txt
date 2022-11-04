@@ -1,0 +1,5 @@
+1 Ich bin die erste Zeile aus myFile1
+2 Ich bin die zweite Zeile aus myFile1
+3 Ich bin die dritte Zeile aus myFile1
+4 Ich bin die vierte Zeile aus myFile1
+5 Ich bin die fünfte zeile aus myFile1

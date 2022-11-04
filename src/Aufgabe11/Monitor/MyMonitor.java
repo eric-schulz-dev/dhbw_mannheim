@@ -13,7 +13,7 @@ public class MyMonitor {
     }
 
     public synchronized void startEating (int i){ //start with eating
-        while(eating[(i+max-1%max)] || eating[(i+1)%max] ){
+        while(eating[(i+max-1)%max] || eating[(i+1)%max] ){
             System.out.println("philosopher " + i + " is waiting");
             try{
                 wait();
