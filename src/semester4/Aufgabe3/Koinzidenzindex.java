@@ -8,6 +8,7 @@ public class Koinzidenzindex {
 
         findLetterSpread(text);
 
+        //TESt
 
     }
 
