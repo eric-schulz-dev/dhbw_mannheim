@@ -1,4 +1,4 @@
-package Lernen.Pluralsight;
+package Semester3.Pluralsight;
 
 import java.util.concurrent.Semaphore;
 

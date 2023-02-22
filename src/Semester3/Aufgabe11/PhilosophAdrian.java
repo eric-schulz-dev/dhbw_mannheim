@@ -1,4 +1,4 @@
-package Aufgabe11;
+package Semester3.Aufgabe11;
 
 import java.util.concurrent.Semaphore;
 

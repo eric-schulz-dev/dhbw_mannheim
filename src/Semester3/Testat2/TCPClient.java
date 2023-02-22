@@ -1,4 +1,4 @@
-package Testat2;
+package Semester3.Testat2;
 
 import java.io.*;
 import java.net.*;

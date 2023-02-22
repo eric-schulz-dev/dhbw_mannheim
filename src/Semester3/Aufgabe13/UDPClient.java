@@ -1,6 +1,5 @@
-package Aufgabe13;
+package Semester3.Aufgabe13;
 
-import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;

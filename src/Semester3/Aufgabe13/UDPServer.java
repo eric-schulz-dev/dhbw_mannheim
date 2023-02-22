@@ -1,10 +1,7 @@
-package Aufgabe13;
+package Semester3.Aufgabe13;
 
-import java.awt.desktop.ScreenSleepEvent;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
-import java.net.SocketException;
-import java.util.Arrays;
 
 public class UDPServer {
 

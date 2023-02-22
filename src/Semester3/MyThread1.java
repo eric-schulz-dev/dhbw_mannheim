@@ -1,3 +1,5 @@
+package Semester3;
+
 public class MyThread1 extends Thread {
     //Das vorliegende Programm aus Folie31
     //Soll so geändert werden, dass nach Beendigung aller

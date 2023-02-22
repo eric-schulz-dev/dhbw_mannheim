@@ -1,4 +1,4 @@
-// (a)Schreibe ein Programm, welches ein Array der Größe 2^21
+package Semester3;// (a)Schreibe ein Programm, welches ein Array der Größe 2^21
 // mit IntegerWerten > 0 füllt. Davon soll die Gesamtsumme
 // gebildet und ausgegeben werden. Die Zeit Dafür soll
 // gemessen werden (ms).
